@@ -9,7 +9,7 @@ I am enthusiastic about AI, Large language models, and their integration with fu
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at Portland State University.
-- I'm pursuing Software Development Engineering internship with SandStream Marketing focused on full stack web application development. 
+- I'm a SDE intern with SandStream Marketing focused on full stack web development. 
 - ✍️ Content Reviewer at [LogRocket](https://blog.logrocket.com/dev), gearing up to share valuable insights with the global developer community.
 
 ## My Research papers 
