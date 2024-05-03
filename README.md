@@ -31,5 +31,6 @@ I am enthusiastic about AI, Large language models, and their integration with fu
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/shreya-choure/)
+- Reach out to me at [Gmail](mailto:choureshreya295@gmail.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
