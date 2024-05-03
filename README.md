@@ -1,4 +1,4 @@
-# Hi, I'm Shreya! 👋
+# Hi there, I'm Shreya! 👋
 
 I am a Software Engineer with experties in Front end development. I build user-friendly, interactive and responsive UI for mobile and web applications. 
 I excel in integrating UI with API's, databases and cloud services to provide scalability, agility, and security.
